@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="H:\Laptop backup\Desktop\OOP project\Project Mydoc"/>
+			<item value="H:\Laptop backup\Desktop\OOP project\MYDOC"/>
+			<item value="H:\Laptop backup\Desktop\OOP Assignment Final\OOP Assignment Final"/>
+			<item value="C:\Users\Hp\Documents\IT18121766\IT18121766"/>
+			<item value="C:\Users\Hp\Desktop\Study Support\DSA\Paper1"/>
+			<item value="C:\Users\Hp\Desktop\Study Support\DSA\Stacks\Assignment1 Model Paper"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
