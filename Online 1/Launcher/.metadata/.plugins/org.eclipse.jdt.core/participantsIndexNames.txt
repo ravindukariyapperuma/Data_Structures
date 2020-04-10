@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\Hp\Desktop\Study Support\DSA\Online 1\Launcher\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1526908382.index
-\MyDocDoctor\src
-C:\Users\Hp\Desktop\Study Support\DSA\Online 1\Launcher\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\689426057.index
-\MyDocDoctor\src
-C:\Users\Hp\Desktop\Study Support\DSA\Online 1\Launcher\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1860350664.index
-\MyDoc\src
-C:\Users\Hp\Desktop\Study Support\DSA\Online 1\Launcher\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1632118585.index
-\MyDoc\src
